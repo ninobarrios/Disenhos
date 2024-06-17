@@ -105,9 +105,9 @@ stack-data==0.6.3
 sympy==1.12
 tensorboard==2.12.3
 tensorboard-data-server==0.7.2
-tensorflow>=2.12.1
-tensorflow-estimator==2.12.0
-tensorflow-intel>=2.12.1
+tensorflow
+tensorflow-estimator
+tensorflow-intel
 typing-extensions>=4.6.0 ; python_version >= "3.12"
 typing-extensions>=3.6.6,<4.6.0 ; python_version < "3.12"
 termcolor==2.4.0
